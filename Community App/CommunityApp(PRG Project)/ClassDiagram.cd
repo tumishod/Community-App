@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CommunityApp_PRG_Project_.UserManagement.User">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgBCAAAAQAAAAAAgAAACAACAAAQAAAAAAA=</HashCode>
+      <FileName>UserManagement\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommunityApp_PRG_Project_.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CommunityApp_PRG_Project_.Program.MainMenu" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAAAAQAAAAAAAAAAABAAABBAEAAIAAAAAAAQBAAABIA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommunityApp_PRG_Project_.JobFinder.JobFinderService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAABAIAAAAAAAAAAAABAAAAABAAI=</HashCode>
+      <FileName>JobFinder\JobFinderService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.742" Collapsed="true" />
+  </Class>
+  <Class Name="CommunityApp_PRG_Project_.JobFinder.Job" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAgAEAEIAAAAAAAAAAAAAAAAQAAAQAAAAA=</HashCode>
+      <FileName>JobFinder\Job.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommunityApp_PRG_Project_.JobFinder.Employer" Collapsed="true">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAEAACAAAAAgAAAAAA=</HashCode>
+      <FileName>JobFinder\Employer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommunityApp_PRG_Project_.JobFinder.Applicant" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAkAAAAAAQAAAAkAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>JobFinder\Applicant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommunityApp_PRG_Project_.GroupChat.Message">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAEAAACAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>GroupChat\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommunityApp_PRG_Project_.GroupChat.HierarchicalGroupChat" Collapsed="true">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAJAAAAAAAAgAAAAAAAAAAAACAA=</HashCode>
+      <FileName>GroupChat\HeirarchialGroupChat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommunityApp_PRG_Project_.GroupChat.ChatGroup" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAQAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAIAAAAACA=</HashCode>
+      <FileName>GroupChat\ChatGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommunityApp_PRG_Project_.EventManagement.EventManager" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAQAAAAAAAAAAAAAAwAAAAAAAAAAIAAAAAAAAE=</HashCode>
+      <FileName>EventManagement\EventManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommunityApp_PRG_Project_.EventManagement.EventCalendar" Collapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAgBAAAAAAgAAAgAAgAACAAAAAACADAA=</HashCode>
+      <FileName>EventManagement\EventCalendar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommunityApp_PRG_Project_.EventManagement.Event" Collapsed="true">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAEEgAAgAAAAIAAAAAAAAAAAAFAAAA=</HashCode>
+      <FileName>EventManagement\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CommunityApp_PRG_Project_.JobFinder.IJobFinder">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAABAIAAAAAAAAAAAABAAAAABAAI=</HashCode>
+      <FileName>JobFinder\IJobFinder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
